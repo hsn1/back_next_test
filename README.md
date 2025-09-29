@@ -37,7 +37,10 @@ front/
 ```
 
 ## Fonctionnalités principales
-- Affichage d’une liste d’articles avec : titre, date, résumé (dans la page /article)
+- Affichage d’une liste d’articles avec : titre, date, résumé (dans la page http://localhost:3000/articles)
+- On peut aussi ajouter directement els filtres dans le lien comme
+http://localhost:3000/articles?query=optim&sort=asc
+où query : le mot qu'on recherche et sort = desc ou sort = asc
 - Recherche **full-text** sur le titre et le résumé des articles. POur faire simple pour l'instant à partir du query de l'utilisateur, on fait une recherche avec un full match correspondant au query entré.
 - Tri par date (du plus récent au plus ancien et inversement)
 - Chatbot finance: Champ de saisie pour envoyer un message, appel à l’API backend pour obtenir la réponse, affichage de la réponse et des sources
