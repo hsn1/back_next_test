@@ -1,0 +1,74 @@
+[
+    {
+        "id": "a1",
+        "title": "Qu’est-ce que l’EBITDA ?",
+        "date": "2024-11-02",
+        "summary": "Définition et intérêt pour l’analyse de performance."
+    },
+    {
+        "id": "a2",
+        "title": "Marge brute vs marge nette",
+        "date": "2025-01-15",
+        "summary": "Comprendre les niveaux de marge et leurs usages."
+    },
+    {
+        "id": "a3",
+        "title": "Analyse des flux de trésorerie",
+        "date": "2024-07-10",
+        "summary": "Méthodes pour analyser la trésorerie d’une entreprise."
+    },
+    {
+        "id": "a4",
+        "title": "Optimiser votre cash-flow",
+        "date": "2025-03-02",
+        "summary": "Actions concrètes pour améliorer le cash-flow."
+    },
+    {
+        "id": "a5",
+        "title": "Guide rapide sur la TVA",
+        "date": "2023-12-01",
+        "summary": "Ce qu’il faut savoir sur la TVA pour PME."
+    },
+    {
+        "id": "a6",
+        "title": "Piloter sa croissance SaaS",
+        "date": "2024-09-18",
+        "summary": "Indicateurs clefs et bonnes pratiques pour SaaS."
+    },
+    {
+        "id": "a7",
+        "title": "Comment lire un bilan",
+        "date": "2022-05-07",
+        "summary": "Les postes importants et leur interprétation."
+    },
+    {
+        "id": "a8",
+        "title": "Stratégies de pricing",
+        "date": "2025-02-20",
+        "summary": "Méthodes pour fixer le prix de vos produits."
+    },
+    {
+        "id": "a9",
+        "title": "Contrôle de gestion 101",
+        "date": "2024-01-14",
+        "summary": "Introduction au contrôle de gestion."
+    },
+    {
+        "id": "a10",
+        "title": "KPI marketing essentiels",
+        "date": "2025-04-05",
+        "summary": "Les métriques à suivre pour le marketing digital."
+    },
+    {
+        "id": "a11",
+        "title": "Prévisions financières",
+        "date": "2024-06-30",
+        "summary": "Construire des prévisions robustes."
+    },
+    {
+        "id": "a12",
+        "title": "Tableaux de bord efficaces",
+        "date": "2023-11-11",
+        "summary": "Designer des dashboards qui servent vraiment."
+    }
+]
