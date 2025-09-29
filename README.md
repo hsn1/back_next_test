@@ -48,7 +48,7 @@ où
 - Chatbot finance: 
     - champ de saisie pour envoyer un message, 
     - appel à l’API chatbot backend python pour obtenir la réponse
-    - affichage de la réponse et des sources jsute en bas du champ de saisie
+    - affichage de la réponse et des sources juste en bas du champ de saisie
 
 ## Base de données
 utilisation d'une base de donnée simple qui est stockée dans un fichier **articles.json** qui se trouve dans le directory data
